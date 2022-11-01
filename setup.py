@@ -15,7 +15,7 @@ setup(
     author_email="matthias.wijnsma@outlook.com",
     url="https://github.com/Matthias1590/LampDisplay",
     download_url="https://github.com/Matthias1590/LampDisplay/archive/refs/tags/v1.1.tar.gz",
-    python_requires=">=3.6",
+    python_requires=">= 3.9",
     install_requires=[
         "pygame",
     ],
