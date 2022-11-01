@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 setup(
     name="lamp_display",
     packages=["lamp_display"],
-    version="1.1",
+    version="1.2",
     license="MIT",
     description="A Python module to simulate a Minecraft lamp display.",
     long_description=readme,
@@ -14,7 +14,7 @@ setup(
     author="Matthias Wijnsma",
     author_email="matthias.wijnsma@outlook.com",
     url="https://github.com/Matthias1590/LampDisplay",
-    download_url="https://github.com/Matthias1590/LampDisplay/archive/refs/tags/v1.1.tar.gz",
+    download_url="https://github.com/Matthias1590/LampDisplay/archive/refs/tags/v1.2.tar.gz",
     python_requires=">= 3.9",
     install_requires=[
         "pygame",
